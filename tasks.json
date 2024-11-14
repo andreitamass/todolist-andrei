@@ -1,0 +1,32 @@
+[
+    {
+        "id": 123,
+        "description": "Buy cheese in store",
+        "category": "Shopping",
+        "status": "pending"
+    },
+    {
+        "id": 124,
+        "description": "Empty Dishwasher",
+        "category": "Cleaning",
+        "status": "pending"
+    },
+    {
+        "id": 456,
+        "description": "Take a walk with the dog",
+        "category": "Dog",
+        "status": "complete"
+    },
+    {
+        "id": 999,
+        "description": "Cook some food",
+        "category": "Cooking",
+        "status": "complete"
+    },
+    {
+        "id": 111,
+        "description": "null",
+        "category": "hejehej",
+        "status": "pending"
+    }
+]
